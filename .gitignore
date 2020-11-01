@@ -3,4 +3,5 @@
 .DS_store
 media
 *.sqlite3
-
+__pycache__
+venv
