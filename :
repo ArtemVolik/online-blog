@@ -1,0 +1,27 @@
+__pycache__ remove
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is up to date with 'origin/master'.
+#
+# Changes to be committed:
+#	deleted:    blog/__pycache__/__init__.cpython-37.pyc
+#	deleted:    blog/__pycache__/admin.cpython-37.pyc
+#	deleted:    blog/__pycache__/models.cpython-37.pyc
+#	deleted:    blog/__pycache__/views.cpython-37.pyc
+#	deleted:    blog/migrations/__pycache__/0001_initial.cpython-37.pyc
+#	deleted:    blog/migrations/__pycache__/0002_post_image.cpython-37.pyc
+#	deleted:    blog/migrations/__pycache__/0003_post_published_at.cpython-37.pyc
+#	deleted:    blog/migrations/__pycache__/0004_auto_20190910_1928.cpython-37.pyc
+#	deleted:    blog/migrations/__pycache__/0005_post_slug.cpython-37.pyc
+#	deleted:    blog/migrations/__pycache__/0006_auto_20190910_2042.cpython-37.pyc
+#	deleted:    blog/migrations/__pycache__/0007_comment_published_at.cpython-37.pyc
+#	deleted:    blog/migrations/__pycache__/0008_avatar.cpython-37.pyc
+#	deleted:    blog/migrations/__pycache__/0009_auto_20190913_1713.cpython-37.pyc
+#	deleted:    blog/migrations/__pycache__/0010_auto_20190913_2109.cpython-37.pyc
+#	deleted:    blog/migrations/__pycache__/0011_tag_image.cpython-37.pyc
+#	deleted:    blog/migrations/__pycache__/0012_remove_tag_image.cpython-37.pyc
+#	deleted:    blog/migrations/__pycache__/0013_auto_20191023_1808.cpython-37.pyc
+#	deleted:    blog/migrations/__pycache__/__init__.cpython-37.pyc
+#
